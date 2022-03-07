@@ -1,0 +1,56 @@
+<<!DOCTYPE html>
+<html>
+<head>
+  <title>Emmanuella's webpage</title>
+</head>
+ <body>
+  <h1><i><b> A LITTLE ABOUT MYSELF </b></i></h1>
+
+  <p><hr><br>My name is Emmanuella Afia Frimpomaah Acheampong.
+    30<sup>th</sup> May is my birthday and a student of University of Ghana.
+      I reside at Lapaz.I'm an Information Technology student and want to be
+      a web developer in future.At my leisure time I love listening to music
+      and also I love dancing.</br></hr></p>
+
+      <img src="" width="300" height="400"></img>
+      <h2><u>Educational Information</u></h2>
+<table style="width:100s" border="1">
+  <tr>
+  <th><b><i>SCHOOLS ATTENDED</i></b><th>
+    <th<b><i>COURSES STUDIED</th></b></i>
+    </tr>
+    <td>PENTECOSTAL CENTRE SCHOOL</td>
+    <td>English,Mathematics,Social Studies,BDT,RME,French,TWI</td>
+    </tr>
+
+    <tr>
+      <td>OYOKO METHODIST SENIOR HIGH SCHOOL</td>
+      <td>Business</td>
+      </tr>
+
+      <tr>
+        <td>UNIVERSITY OF GHANA</td>
+        <td>Information Technology</td>
+        </tr>
+        </table><thead>
+
+        <p><h2><b><u> PERSONAL DATA </u></b><h2><p></thead>
+          <p> Enter your name </p>
+          <input text="text"> </input>
+          <p> Select your age </p>
+          <input text="number"> </input>
+          <p> Enter your phone number </p>
+          <input type="tel"> </input>
+          <b><p> Select your gender type </p></b>
+          <p> Male <input name="btn" type="radio"> </input> </p>
+          <p> Female <input name="btn" type="radio" </input> </p>
+          <p> Others <input name="btn" type="radio" </input> </p>
+          <input type="text" value="enter your ID type". </input>
+          <input type="text" value="egit banter your ID number" </input>
+
+
+          <br/>
+
+          <input type="submit"/>
+
+          <input type="reset"/>
